@@ -1,0 +1,1 @@
+在 mybatis-generator-core 目录下 执行 mvn clean package -Dmaven.test.skip=true
